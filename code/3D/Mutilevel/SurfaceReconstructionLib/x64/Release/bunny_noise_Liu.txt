@@ -1,0 +1,6 @@
+Begin
+Load bunny_noise.txt
+LiuRBF Init 7 200
+LiuRBF Reconstruct 0.003 bunny_noise
+LiuRBF Release
+End

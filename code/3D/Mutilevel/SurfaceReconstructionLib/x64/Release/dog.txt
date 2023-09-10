@@ -1,0 +1,6 @@
+Begin
+Load dog.txt
+IRBF Init 8 -0.5 200
+IRBF Reconstruct 0.002 dog
+IRBF Release
+End

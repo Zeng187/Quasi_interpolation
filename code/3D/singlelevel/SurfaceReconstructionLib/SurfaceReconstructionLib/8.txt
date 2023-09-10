@@ -1,0 +1,9 @@
+Begin
+Load 8.txt
+IRBF Init 0.15 -0.5 200
+IRBF Reconstruct 0.03 8
+IRBF Release
+LiuRBF Init 0.15 200
+LiuRBF Reconstruct 0.03 8
+LiuRBF Release
+End

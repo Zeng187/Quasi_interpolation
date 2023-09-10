@@ -1,0 +1,6 @@
+Begin
+Load MaxPlanck_10_half10.txt
+IRBF Init 7 -0.5 200
+IRBF Reconstruct 0.2 MaxPlanck_10_half10
+IRBF Release
+End

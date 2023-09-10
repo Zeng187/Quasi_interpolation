@@ -1,0 +1,6 @@
+Begin
+Load buddha.txt
+IRBF Init 6 -0.5 200
+IRBF Reconstruct 0.0008 buddha
+IRBF Release
+End

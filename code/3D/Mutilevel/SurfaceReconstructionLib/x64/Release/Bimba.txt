@@ -1,0 +1,6 @@
+Begin
+Load Bimba.txt
+IRBF Init 7 -0.5 200
+IRBF Reconstruct 0.015 bimba
+IRBF Release
+End

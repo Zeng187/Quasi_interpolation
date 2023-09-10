@@ -1,0 +1,6 @@
+Begin
+Load dragon.txt
+IRBF Init 0.015 -0.5 200
+IRBF Reconstruct 0.015 dragon
+IRBF Release
+End

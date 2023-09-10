@@ -1,0 +1,6 @@
+Begin
+Load dog.txt
+LiuRBF Init 0.05 200
+LiuRBF Reconstruct 0.002 dog
+LiuRBF Release
+End

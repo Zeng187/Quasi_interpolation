@@ -1,0 +1,9 @@
+Begin
+Load torus.txt
+IRBF Init 0.41 -0.5 200
+IRBF Reconstruct 0.05 torus
+IRBF Release
+LiuRBF Init 0.41 200
+LiuRBF Reconstruct 0.05 torus
+LiuRBF Release
+End

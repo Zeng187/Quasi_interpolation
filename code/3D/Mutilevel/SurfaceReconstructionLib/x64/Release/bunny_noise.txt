@@ -1,0 +1,6 @@
+Begin
+Load bunny_noise.txt
+IRBF Init 7 -0.5 200
+IRBF Reconstruct 0.003 bunny_noise
+IRBF Release
+End

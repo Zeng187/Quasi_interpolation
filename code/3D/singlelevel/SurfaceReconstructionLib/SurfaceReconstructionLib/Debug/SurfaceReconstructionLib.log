@@ -1,0 +1,7 @@
+﻿  Octree.cpp
+f:\cpp\surfacereconstructionlib\surfacereconstructionlib\surfacereconstructionlib\octree.cpp(55): warning C4018: “<”: 有符号/无符号不匹配
+f:\cpp\surfacereconstructionlib\surfacereconstructionlib\surfacereconstructionlib\octree.cpp(62): warning C4018: “>”: 有符号/无符号不匹配
+f:\cpp\surfacereconstructionlib\surfacereconstructionlib\surfacereconstructionlib\octree.cpp(89): warning C4018: “<”: 有符号/无符号不匹配
+f:\cpp\surfacereconstructionlib\surfacereconstructionlib\surfacereconstructionlib\octree.cpp(112): warning C4018: “<”: 有符号/无符号不匹配
+f:\cpp\surfacereconstructionlib\surfacereconstructionlib\surfacereconstructionlib\octree.cpp(144): warning C4018: “<”: 有符号/无符号不匹配
+  SurfaceReconstructionLib.vcxproj -> F:\CPP\SurfaceReconstructionLib\SurfaceReconstructionLib\Debug\SurfaceReconstructionLib.exe

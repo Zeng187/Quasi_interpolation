@@ -1,0 +1,9 @@
+Begin
+Load Igea_half_10.txt
+IRBF Init 0.015 -0.5 200
+IRBF Reconstruct 0.015 Igea_half_10
+IRBF Release
+LiuRBF Init 0.015 200
+LiuRBF Reconstruct 0.015 Igea_half_10
+LiuRBF Release
+End

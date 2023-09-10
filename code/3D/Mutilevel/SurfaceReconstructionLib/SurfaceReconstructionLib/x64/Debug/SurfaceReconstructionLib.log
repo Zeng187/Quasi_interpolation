@@ -1,0 +1,21 @@
+﻿  pch.cpp
+  IRBF.cpp
+  Octree.cpp
+D:\Zeng\works\Quasi-interpolation\code\3D\Mutilevel\SurfaceReconstructionLib\SurfaceReconstructionLib\Octree.cpp(52,40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  polygonizer.cpp
+D:\Zeng\works\Quasi-interpolation\code\3D\Mutilevel\SurfaceReconstructionLib\SurfaceReconstructionLib\polygonizer.h(83,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\Zeng\works\Quasi-interpolation\code\3D\Mutilevel\SurfaceReconstructionLib\SurfaceReconstructionLib\polygonizer.h(90,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\Zeng\works\Quasi-interpolation\code\3D\Mutilevel\SurfaceReconstructionLib\SurfaceReconstructionLib\polygonizer.h(99,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\Zeng\works\Quasi-interpolation\code\3D\Mutilevel\SurfaceReconstructionLib\SurfaceReconstructionLib\polygonizer.cpp(385,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Zeng\works\Quasi-interpolation\code\3D\Mutilevel\SurfaceReconstructionLib\SurfaceReconstructionLib\polygonizer.cpp(375,12): warning C4101: “n”: 未引用的局部变量
+  SurfaceReconstructionLib.cpp
+D:\Zeng\works\Quasi-interpolation\code\3D\Mutilevel\SurfaceReconstructionLib\SurfaceReconstructionLib\Cube.h(97,40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Zeng\works\Quasi-interpolation\code\3D\Mutilevel\SurfaceReconstructionLib\SurfaceReconstructionLib\polygonizer.h(83,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\Zeng\works\Quasi-interpolation\code\3D\Mutilevel\SurfaceReconstructionLib\SurfaceReconstructionLib\polygonizer.h(90,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\Zeng\works\Quasi-interpolation\code\3D\Mutilevel\SurfaceReconstructionLib\SurfaceReconstructionLib\polygonizer.h(99,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\Zeng\works\Quasi-interpolation\code\3D\Mutilevel\SurfaceReconstructionLib\SurfaceReconstructionLib\Batch.h(100,11): warning C4101: “t”: 未引用的局部变量
+D:\Zeng\works\Quasi-interpolation\code\3D\Mutilevel\SurfaceReconstructionLib\SurfaceReconstructionLib\Batch.h(143,11): warning C4101: “t”: 未引用的局部变量
+D:\Zeng\works\Quasi-interpolation\code\3D\Mutilevel\SurfaceReconstructionLib\SurfaceReconstructionLib\Batch.h(182,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  rply.c
+  SurfaceReconstructionLib.vcxproj -> D:\Zeng\works\Quasi-interpolation\code\3D\Mutilevel\SurfaceReconstructionLib\x64\Debug\SurfaceReconstructionLib.exe

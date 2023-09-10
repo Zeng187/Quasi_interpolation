@@ -1,0 +1,6 @@
+Begin
+Load cow.txt
+IRBF Init 8 -0.5 200
+IRBF Reconstruct 0.01 cow
+IRBF Release
+End

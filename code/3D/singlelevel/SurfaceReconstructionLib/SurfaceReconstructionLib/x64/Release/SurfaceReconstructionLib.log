@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(SurfaceReconstructionLib.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  SurfaceReconstructionLib.cpp
+D:\存储\s3\项目相关\quasi\3D\singlelevel\SurfaceReconstructionLib\SurfaceReconstructionLib\polygonizer.h(83,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\存储\s3\项目相关\quasi\3D\singlelevel\SurfaceReconstructionLib\SurfaceReconstructionLib\polygonizer.h(90,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\存储\s3\项目相关\quasi\3D\singlelevel\SurfaceReconstructionLib\SurfaceReconstructionLib\polygonizer.h(99,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\存储\s3\项目相关\quasi\3D\singlelevel\SurfaceReconstructionLib\SurfaceReconstructionLib\LiuRBF.h(137,10): warning C4101: “d”: 未引用的局部变量
+D:\存储\s3\项目相关\quasi\3D\singlelevel\SurfaceReconstructionLib\SurfaceReconstructionLib\Batch.h(70,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\存储\s3\项目相关\quasi\3D\singlelevel\SurfaceReconstructionLib\SurfaceReconstructionLib\Batch.h(93,11): warning C4101: “t”: 未引用的局部变量
+D:\存储\s3\项目相关\quasi\3D\singlelevel\SurfaceReconstructionLib\SurfaceReconstructionLib\Batch.h(114,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\存储\s3\项目相关\quasi\3D\singlelevel\SurfaceReconstructionLib\SurfaceReconstructionLib\Batch.h(137,11): warning C4101: “t”: 未引用的局部变量
+  正在生成代码
+  10 of 1205 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  SurfaceReconstructionLib.vcxproj -> D:\存储\s3\项目相关\quasi\3D\singlelevel\SurfaceReconstructionLib\x64\Release\Single_level.exe

@@ -1,0 +1,9 @@
+Begin
+Load bunny724.txt
+IRBF Init 0.003 -2
+IRBF Reconstruct 0.01 bunny724
+IRBF Release
+LiuRBF Init 0.003
+LiuRBF Reconstruct 0.01 bunny724
+LiuRBF Release
+End

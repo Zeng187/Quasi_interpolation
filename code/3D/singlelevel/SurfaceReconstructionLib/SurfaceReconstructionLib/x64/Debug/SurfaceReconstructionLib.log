@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  IRBF.cpp
+  Octree.cpp
+D:\存储\s3\项目相关\L\SurfaceReconstructionLib\SurfaceReconstructionLib\Octree.cpp(52,40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  SurfaceReconstructionLib.cpp
+  正在生成代码...
+  SurfaceReconstructionLib.vcxproj -> D:\存储\s3\项目相关\L\SurfaceReconstructionLib\x64\Debug\SurfaceReconstructionLib.exe

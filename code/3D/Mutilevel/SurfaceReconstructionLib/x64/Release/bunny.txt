@@ -1,0 +1,6 @@
+Begin
+Load bunny.txt
+IRBF Init 7 -0.5 200
+IRBF Reconstruct 0.002 bunny
+IRBF Release
+End

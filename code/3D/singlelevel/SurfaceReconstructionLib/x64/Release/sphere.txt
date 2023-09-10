@@ -1,0 +1,9 @@
+Begin
+Load sphere.txt
+IRBF Init 0.015 -0.5 200
+IRBF Reconstruct 0.015 sphere
+IRBF Release
+LiuRBF Init 0.015 200
+LiuRBF Reconstruct 0.015 sphere
+LiuRBF Release
+End
